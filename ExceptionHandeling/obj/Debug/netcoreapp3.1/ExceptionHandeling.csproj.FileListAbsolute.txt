@@ -1,0 +1,26 @@
+C:\Users\rohansharma\source\repos\Day2\ExceptionHandeling\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.exe
+C:\Users\rohansharma\source\repos\Day2\ExceptionHandeling\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.deps.json
+C:\Users\rohansharma\source\repos\Day2\ExceptionHandeling\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.runtimeconfig.json
+C:\Users\rohansharma\source\repos\Day2\ExceptionHandeling\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.runtimeconfig.dev.json
+C:\Users\rohansharma\source\repos\Day2\ExceptionHandeling\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.dll
+C:\Users\rohansharma\source\repos\Day2\ExceptionHandeling\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.pdb
+C:\Users\rohansharma\source\repos\Day2\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.csproj.AssemblyReference.cache
+C:\Users\rohansharma\source\repos\Day2\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.AssemblyInfoInputs.cache
+C:\Users\rohansharma\source\repos\Day2\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.AssemblyInfo.cs
+C:\Users\rohansharma\source\repos\Day2\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.csproj.CoreCompileInputs.cache
+C:\Users\rohansharma\source\repos\Day2\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.dll
+C:\Users\rohansharma\source\repos\Day2\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.pdb
+C:\Users\rohansharma\source\repos\Day2\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.genruntimeconfig.cache
+C:\Users\rohansharma\Desktop\C# GIT\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.csproj.AssemblyReference.cache
+C:\Users\rohansharma\Desktop\C# GIT\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.AssemblyInfoInputs.cache
+C:\Users\rohansharma\Desktop\C# GIT\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.AssemblyInfo.cs
+C:\Users\rohansharma\Desktop\C# GIT\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.csproj.CoreCompileInputs.cache
+C:\Users\rohansharma\Desktop\C# GIT\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.dll
+C:\Users\rohansharma\Desktop\C# GIT\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.pdb
+C:\Users\rohansharma\Desktop\C# GIT\ExceptionHandeling\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.exe
+C:\Users\rohansharma\Desktop\C# GIT\ExceptionHandeling\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.deps.json
+C:\Users\rohansharma\Desktop\C# GIT\ExceptionHandeling\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.runtimeconfig.json
+C:\Users\rohansharma\Desktop\C# GIT\ExceptionHandeling\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.runtimeconfig.dev.json
+C:\Users\rohansharma\Desktop\C# GIT\ExceptionHandeling\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.dll
+C:\Users\rohansharma\Desktop\C# GIT\ExceptionHandeling\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.pdb
+C:\Users\rohansharma\Desktop\C# GIT\ExceptionHandeling\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.genruntimeconfig.cache
